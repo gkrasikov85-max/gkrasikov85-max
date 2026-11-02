@@ -1,16 +1,76 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/34262682/README.md)
+<div align="center">
+
+# Привет, я Глеб 👋
+
+### Python · C · Web Development
+
+Развиваю навыки программирования и интересуюсь созданием игр и веб-проектов.
+
+![Dark Tech](https://img.shields.io/badge/STYLE-DARK_TECH-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF)
+
+</div>
+
+---
+
+## Обо мне
+
+Работаю с **Python, C, JavaScript, HTML5 и CSS3**. Мне интересно превращать идеи в понятные и работающие приложения, разбираться в устройстве программ и развивать навыки через практику.
+
+- **Интересы:** разработка игр, веб-проекты и программирование.
+- **Сейчас изучаю:** [УКАЖИТЕ ТЕМУ ИЛИ ТЕХНОЛОГИЮ].
+- **Открыт к обсуждению:** [УКАЖИТЕ ИНТЕРЕСУЮЩИЙ ФОРМАТ РАБОТЫ ИЛИ СОТРУДНИЧЕСТВА].
+
+## Технологии
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=663399)
+
+</div>
+
+## Проекты
+
+<!-- Замените примеры реальными проектами. Удалите строки, для которых пока нет репозитория. -->
+
+| Проект | Описание | Технологии | Ссылка |
+| :--- | :--- | :--- | :--- |
+| [НАЗВАНИЕ ВЕБ-ПРОЕКТА] | [Какую задачу решает проект и что вы реализовали] | [Укажите фактический стек] | [Репозиторий](https://github.com/YOUR_USERNAME/WEB_PROJECT_REPO) |
+| [НАЗВАНИЕ ИГРЫ] | [Идея игры, основные механики и ваш вклад] | [Укажите фактический стек] | [Репозиторий](https://github.com/YOUR_USERNAME/GAME_PROJECT_REPO) |
+| [НАЗВАНИЕ ДРУГОГО ПРОЕКТА] | [Назначение программы и ваша часть работы] | [Укажите фактический стек] | [Репозиторий](https://github.com/YOUR_USERNAME/PROJECT_REPO) |
+
+## Контакты
+
+- **Email:** [ВАШ EMAIL]
+- **Telegram:** [ВАШ @USERNAME ИЛИ ССЫЛКА]
+- **Портфолио / резюме:** [ССЫЛКА, ЕСЛИ ЕСТЬ]
+
+---
+
+<div align="center">
+
+<sub>Python · C · JavaScript · HTML5 · CSS3</sub>
+
+</div>
 
 <!--
-**gkrasikov85-max/gkrasikov85-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ИНСТРУКЦИЯ ПО ПУБЛИКАЦИИ
+Этот комментарий не отображается в профиле GitHub.
 
-Here are some ideas to get you started:
+1. Замените [ИМЯ], поля в квадратных скобках, YOUR_USERNAME и имена репозиториев своими данными.
+2. Оставьте только реальные проекты и актуальные контакты. Удалите незаполненные пункты.
+3. В описании каждого проекта укажите его назначение и ваш личный вклад. Для командных проектов уточните свою роль.
+4. На GitHub создайте публичный репозиторий с именем, точно совпадающим с вашим логином.
+   Например: для логина octocat нужен репозиторий octocat/octocat.
+5. Поместите этот файл с именем README.md в корень репозитория и сохраните изменения (Commit changes).
+6. Откройте свой профиль и проверьте отображение, ссылки и контакты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ОФОРМЛЕНИЕ
+README использует спокойную палитру Dark Tech и лучше всего сочетается с темной темой GitHub.
+Сам README не может переключить тему или задать фон всей страницы: это настройка посетителя.
+Бейджи загружаются с shields.io; основной текст остается доступным без них.
 -->
