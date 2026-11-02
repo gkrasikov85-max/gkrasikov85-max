@@ -45,9 +45,9 @@
 
 ## Контакты
 
-- **Email:** [ВАШ EMAIL]
-- **Telegram:** [ВАШ @USERNAME ИЛИ ССЫЛКА]
-- **Портфолио / резюме:** [ССЫЛКА, ЕСЛИ ЕСТЬ]
+- **Email:** gkrasikov85@gmail.com
+- **Telegram:** @julkyg
+- **Портфолио / резюме:** 
 
 ---
 
